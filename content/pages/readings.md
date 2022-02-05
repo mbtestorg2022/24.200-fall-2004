@@ -20,31 +20,349 @@ The Lucretius is available on the web. If you'd prefer to have a hard copy, you 
 
 In many cases, complete versions of the texts can be found through [Project Gutenberg](http://www.gutenberg.org/), although these translations may differ from those used in the course.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Socrates and the Sophists | Introduction to _RAGP_  {{< br >}}  {{< br >}}_Apology_ |
-| 3 | Socrates and the Law | _Crito_ |
-| 4 | Socratic Method | _Euthyphro_ |
-| 5 | Knowledge and Learning | _Meno_ |
-| 6 | Prudential Paradox | _Meno_ |
-| 7 | Immortality and the Soul | _Phaedo_ |
-| 8 | Introduction of the Forms | _Phaedo_  {{< br >}}  {{< br >}}_Symposium_ (201d-212c) |
-| 9 | Why Be Moral? | _Republic_ I-IV, especially II, III: 412c-417b |
-| 10 | Justice in the City | _Republic_ IV: 427d-445e |
-| 11 | Justice in the Soul | _Republic_ V-VII, especially V: 449a-468, 471c-480a |
-| 12 | Theory of Forms | _Republic_ VI: 502d-511  {{< br >}}  {{< br >}}_Republic_ VII: 514a-525 |
-| 13 | Happiness, Liberty, and Social Engineering | _Republic_ X |
-| 14 | Aristotle on Plato | _RAGP_, pp. 473-482  {{< br >}}  {{< br >}}_Categories_ 1-5 |
-| 15 | Matter and Form | _Physics_ I: 7-9, II  {{< br >}}  {{< br >}}_Parts of Animals_ I: 1, 5 |
-| 16 | Essence, God | _Metaphysics_ VII: 1-4; VIII: 1-2; XII: 6-9 |
-| 17 | On the Soul | _De Anima_ II: 1-3 |
-| 18 | Perception, Understanding | _De Anima_ II: 5, 12; III: 4-5  {{< br >}}  {{< br >}}_Posterior Analytics_ I-III |
-| 19 | Happiness | _Nichomachean Ethics_ I-II |
-| 20 | Virtue | _Nichomachean Ethics_ III |
-| 21 | Weakness of Will | _Nichomachean Ethics_ VII |
-| 22 | Friendship | _Nichomachean Ethics_ VIII |
-| 23 | Contemplation | _Nichomachean Ethics_ X |
-| 24 | Epicurean Atomism | Selections from Epicurus _TBA_  {{< br >}}  {{< br >}}Lucretius, _ONU_, Chapter 1-2 |
-| 25 | Epicurean Morality | Selections from Epicurus _TBA_  {{< br >}}  {{< br >}}Lucretius, _ONU_, Chapter 3 (pp. 96-121) |
-| 26 | Death | Lucretius, _ONU_, Chapter 3 (pp. 121-29)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Socrates and the Sophists
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to _RAGP_  
+  
+_Apology_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Socrates and the Law
+{{< tdclose >}}
+{{< tdopen >}}
+_Crito_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Socratic Method
+{{< tdclose >}}
+{{< tdopen >}}
+_Euthyphro_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge and Learning
+{{< tdclose >}}
+{{< tdopen >}}
+_Meno_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Prudential Paradox
+{{< tdclose >}}
+{{< tdopen >}}
+_Meno_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Immortality and the Soul
+{{< tdclose >}}
+{{< tdopen >}}
+_Phaedo_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction of the Forms
+{{< tdclose >}}
+{{< tdopen >}}
+_Phaedo_  
+  
+_Symposium_ (201d-212c)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Why Be Moral?
+{{< tdclose >}}
+{{< tdopen >}}
+_Republic_ I-IV, especially II, III: 412c-417b
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Justice in the City
+{{< tdclose >}}
+{{< tdopen >}}
+_Republic_ IV: 427d-445e
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Justice in the Soul
+{{< tdclose >}}
+{{< tdopen >}}
+_Republic_ V-VII, especially V: 449a-468, 471c-480a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Theory of Forms
+{{< tdclose >}}
+{{< tdopen >}}
+_Republic_ VI: 502d-511  
+  
+_Republic_ VII: 514a-525
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Happiness, Liberty, and Social Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+_Republic_ X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Aristotle on Plato
+{{< tdclose >}}
+{{< tdopen >}}
+_RAGP_, pp. 473-482  
+  
+_Categories_ 1-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Matter and Form
+{{< tdclose >}}
+{{< tdopen >}}
+_Physics_ I: 7-9, II  
+  
+_Parts of Animals_ I: 1, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Essence, God
+{{< tdclose >}}
+{{< tdopen >}}
+_Metaphysics_ VII: 1-4; VIII: 1-2; XII: 6-9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+On the Soul
+{{< tdclose >}}
+{{< tdopen >}}
+_De Anima_ II: 1-3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Perception, Understanding
+{{< tdclose >}}
+{{< tdopen >}}
+_De Anima_ II: 5, 12; III: 4-5  
+  
+_Posterior Analytics_ I-III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Happiness
+{{< tdclose >}}
+{{< tdopen >}}
+_Nichomachean Ethics_ I-II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Virtue
+{{< tdclose >}}
+{{< tdopen >}}
+_Nichomachean Ethics_ III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Weakness of Will
+{{< tdclose >}}
+{{< tdopen >}}
+_Nichomachean Ethics_ VII
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Friendship
+{{< tdclose >}}
+{{< tdopen >}}
+_Nichomachean Ethics_ VIII
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Contemplation
+{{< tdclose >}}
+{{< tdopen >}}
+_Nichomachean Ethics_ X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Epicurean Atomism
+{{< tdclose >}}
+{{< tdopen >}}
+Selections from Epicurus _TBA_  
+  
+Lucretius, _ONU_, Chapter 1-2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Epicurean Morality
+{{< tdclose >}}
+{{< tdopen >}}
+Selections from Epicurus _TBA_  
+  
+Lucretius, _ONU_, Chapter 3 (pp. 96-121)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Death
+{{< tdclose >}}
+{{< tdopen >}}
+Lucretius, _ONU_, Chapter 3 (pp. 121-29)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

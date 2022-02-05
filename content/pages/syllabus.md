@@ -30,7 +30,36 @@ Evaluation
 
 The student's final grade will be based on written work, class participation, and improvement over the term. Each essay will count approximately 25% of the final grade; the remaining 25% will depend on TAP presentations and class participation. Late papers will be graded down unless an extension is granted in advance of the due date (except, of course, in case of medical emergency).
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three Essays | 25% each |
-| TAP Presentations and Class Participation | 25%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Essays
+{{< tdclose >}}
+{{< tdopen >}}
+25% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+TAP Presentations and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
